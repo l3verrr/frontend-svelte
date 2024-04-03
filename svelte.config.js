@@ -16,7 +16,6 @@ const config = {
 			out: "dist",
 		}),
 		csrf: { checkOrigin: true },
-		trailingSlash: "always",
 		serviceWorker: {
 			register: true,
 			files: (filepath) => !/\.DS_Store/.test(filepath),

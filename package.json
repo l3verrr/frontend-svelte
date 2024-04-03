@@ -43,6 +43,7 @@
 	"dependencies": {
 		"@fontsource/red-hat-display": "^5.0.19",
 		"@fontsource/red-hat-text": "^5.0.17",
+		"@sveltejs/vite-plugin-svelte": "^3.0.2",
 		"luxon": "^3.0.4",
 		"normalize.css": "^8.0.1",
 		"nprogress": "^0.2.0",
